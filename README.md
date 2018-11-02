@@ -7,3 +7,5 @@
 
 > 感谢您的访问						
 > 11/2/2018 8:32:18 PM 
+![image]
+(https://github.com/xmnyl/CSS3-burnForx/blob/master/images/burningFox.gif)
